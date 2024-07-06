@@ -1,0 +1,11 @@
+.heart-icon{
+    color: #14a44d;
+}
+
+.heart-icon:hover{
+    color: red;
+}
+
+body{
+    background-color: rgb(236, 239, 250);
+}
